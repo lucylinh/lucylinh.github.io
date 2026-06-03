@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
+* Richland High School - 2029
+  Unweighted GPA: 4.0/4.0
+* 4 Honors Classes, 4 AP Classes
+  AP Human Geography, AP CSP, AP Chemistry, AP World History
+  Honors LA 9, Honors LA 10, Honors Pre Calculus, Honors Algebra 2
+  
+Activities
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* FIRST Tech Challenge (FTC)
+  FTC is a competitive robotics program that focuses on engineering, programming, teamwork, and leadership.
+  I am on Evergreen Dynamics, #30316. I’m a technician on the hardware and 3d design team, and I am the drive coach.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Scouting America
+  I am a First-Class Scout who has held multiple leadership positions, including Patrol Leader, Troop Guide, and Assistant Senior Patrol Leader.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* FIRST lego league (FLl)
+  FLL is a part of FIRST, where you build and code LEGO robots while working on a STEM community project.
+  I was on the Intelligent Mavericks, a 3-time world-attending team and 2nd place award winner during the Submerged season. I participated for 6 years and was a key leader on the team.
+
+* Create Performance Task
+  For my creative performance task practice, I created a pace-and-splits calculator for runners. This was created in JavaScript. This was a simple way for me to apply the skills I’d learned after taking AP Computer Science Principles. 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* SolidWorks CAD Design
+* Mechanical Design
+* JavaScript
+* Public speaking & presentations
+* Leadership & Teamwork
+* Adobe Premiere Pro video editing
 
-Publications
+Contact
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* LOCATION: Richland, WA 99352
+* EMAIL: Lucy.linh.cramer@gmail.com
+* INSTA: @lucy.linh.cramer
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
