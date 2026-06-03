@@ -47,6 +47,4 @@ Contact
 * LOCATION: Richland, WA 99352
 * EMAIL: Lucy.linh.cramer@gmail.com
 * INSTA: @lucy.linh.cramer
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 
